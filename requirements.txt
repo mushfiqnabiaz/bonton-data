@@ -76,7 +76,7 @@ pywin32
 qrcode
 referencing
 reportlab
-requests=
+requests
 requests-file
 requests-toolbelt
 rich
